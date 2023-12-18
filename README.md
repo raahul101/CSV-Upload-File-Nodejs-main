@@ -17,7 +17,7 @@ CSV Upload File which built using Nodejs, Ejs , CSS , JavaScript.It is responsiv
 ### `Run my project`
 ```shell
     npm install
-    npm start
+    node index.js
     Open [http://localhost:8500] view
 ```
 
